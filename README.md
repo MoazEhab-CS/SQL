@@ -2,7 +2,7 @@
 
 
 ## Contents
-1. [**📝Day1**](./day1)
+1. [**📝Day1**](./Day1)
    - Basic `SELECT` statements
    - Using `WHERE`, `ORDER BY`, `GROUP BY`
    - Aggregate functions (`SUM`, `COUNT`, `AVG`, etc.)
